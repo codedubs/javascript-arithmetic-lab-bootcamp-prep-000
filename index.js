@@ -22,12 +22,12 @@ function divide(a, b) {
 
 divide(10, 2)
 
-
+var n = 10
 function inc(n) {
-  return n
+  return n += 5
 }
 
-inc(10)
+inc()
 
 function makeInt(n) {
   return n
