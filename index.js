@@ -22,7 +22,8 @@ function divide(a, b) {
 
 divide(10, 2)
 
-var n = 10
+
 function inc(n) {
+  var n = 10
   return n++
 }
