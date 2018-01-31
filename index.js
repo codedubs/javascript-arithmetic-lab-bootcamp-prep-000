@@ -28,6 +28,10 @@ function inc(n) {
   return n
 }
 
+function dec(n) {
+  n-=
+  retun n
+}
 
 function makeInt(n) {
   return n
