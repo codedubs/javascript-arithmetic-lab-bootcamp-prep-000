@@ -43,4 +43,4 @@ function preserveDecimal(n) {
   parseFloat(n)
 }
 
-parseFloat('7.99')
+preserveDecimal('7.99')
