@@ -24,6 +24,6 @@ divide(10, 2)
 
 
 function inc(n) {
-  var n = 10
   return n++
 }
+ inc(4)
