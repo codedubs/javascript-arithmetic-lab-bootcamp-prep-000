@@ -38,5 +38,3 @@ function makeInt(n) {
 }
 
 makeInt('4', 10)
-
-  
