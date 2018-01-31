@@ -27,5 +27,4 @@ function inc(n) {
   return n++
 }
 
-var n = 10
-inc()
+inc(10)
