@@ -33,7 +33,7 @@ function dec(n) {
   return n
 }
 
-function makeInt(n, n) {
+function makeInt(n) {
   return n
 }
 
