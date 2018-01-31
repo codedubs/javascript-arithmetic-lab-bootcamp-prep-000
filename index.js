@@ -24,7 +24,7 @@ divide(10, 2)
 
 
 function inc(n) {
-  return n += 10
+  return n+= 10
 }
 
 inc(3)
