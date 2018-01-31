@@ -23,7 +23,7 @@ function divide(a, b) {
 divide(10, 2)
 
 
-function inc(n) {
+function inc(5) {
   return n++
 }
- inc(4)
+ inc()
