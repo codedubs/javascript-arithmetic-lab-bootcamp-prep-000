@@ -42,3 +42,5 @@ makeInt('4', 10)
 function preserveDecimal(n) {
   parseFloat(n)
 }
+
+parseFloat('7.99')
