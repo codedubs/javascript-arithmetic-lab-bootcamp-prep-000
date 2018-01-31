@@ -1,10 +1,10 @@
 
 
-function add("1", "2") {
-  return 1 + 2
+function add(a, b) {
+  return a + b
 }
 
-add()
+add(2,3)
 
 function subtract() {
 
