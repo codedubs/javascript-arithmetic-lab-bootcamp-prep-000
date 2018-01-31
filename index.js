@@ -28,7 +28,6 @@ function inc(n) {
   return n
 }
 
-inc(10)
 
 function makeInt(n) {
   return n
