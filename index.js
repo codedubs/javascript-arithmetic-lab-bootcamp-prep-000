@@ -30,7 +30,7 @@ function inc(n) {
 
 function dec(n) {
   n-=
-  retun n
+  return n
 }
 
 function makeInt(n) {
