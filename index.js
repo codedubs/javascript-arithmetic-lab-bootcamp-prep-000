@@ -9,8 +9,14 @@ function add() {
 
 add()
 
-function subtract()
+function subtract() {
+  
+}
 
 
-function multiply()
-function divide()
+function multiply() {
+  
+}
+function divide() {
+  
+}
