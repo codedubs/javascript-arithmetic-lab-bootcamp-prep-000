@@ -33,8 +33,8 @@ function dec(n) {
   return n
 }
 
-function parseInt(n) {
+function makeInt(n, n) {
   return n
 }
 
-parseInt('4', 10)
+makeInt('4', 10)
