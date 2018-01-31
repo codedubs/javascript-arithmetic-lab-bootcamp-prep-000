@@ -37,6 +37,6 @@ function makeInt(n) {
   return n
 }
 
-makeInt(4, 10)
+makeInt('4', 10)
 
   
