@@ -24,7 +24,7 @@ divide(10, 2)
 
 var n = 10
 function inc(n) {
-  return n += 5
+  return n+= 
 }
 
 inc()
