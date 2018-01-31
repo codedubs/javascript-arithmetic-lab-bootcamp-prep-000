@@ -24,7 +24,8 @@ divide(10, 2)
 
 var n = 10
 function inc(n) {
-  return n++
+  n++
+  return n
 }
 
 function makeInt(n) {
