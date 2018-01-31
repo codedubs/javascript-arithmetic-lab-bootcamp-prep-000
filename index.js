@@ -24,6 +24,14 @@ divide(10, 2)
 
 
 function inc(n) {
-  return n++
+  return n
 }
- n = 10
+
+inc(10)
+
+function makeInt(n) {
+  return n
+}
+
+
+ 
