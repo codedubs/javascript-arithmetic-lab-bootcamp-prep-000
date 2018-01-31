@@ -6,10 +6,10 @@ function add(a, b) {
 
 add(2,3)
 
-function subtract() {
-
+function subtract(a,b) {
+  return a-b
 }
-
+subtract(5,4)
 
 function multiply() {
 
