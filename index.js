@@ -23,10 +23,11 @@ function divide(a, b) {
 divide(10, 2)
 
 
-function inc(n++) {
+function inc(n) {
   return n
 }
 
+inc(10)
 
 function makeInt(n) {
   return n
